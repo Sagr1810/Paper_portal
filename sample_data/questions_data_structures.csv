@@ -1,0 +1,21 @@
+question_text,unit_code,co_code,blooms_code,question_type,difficulty,default_marks,tags
+Define a binary tree and explain its properties.,U1,CO1,R,short,easy,2,tree;basic
+What is the difference between a stack and a queue?,U1,CO1,R,short,easy,2,stack;queue
+Explain the concept of recursion with an example.,U1,CO2,U,short,medium,3,recursion
+Trace the execution of bubble sort on [5,3,8,1,9,2].,U2,CO2,Ap,short,medium,5,sorting
+Write an algorithm for binary search and analyze its time complexity.,U2,CO2,Ap,long,medium,5,search;complexity
+Implement a linked list with insert and delete operations.,U2,CO3,Ap,long,medium,10,linked-list
+Compare DFS and BFS with examples.,U3,CO3,An,long,medium,5,graph;traversal
+Design a hash table with collision resolution.,U3,CO3,An,long,hard,10,hashing
+Evaluate the time complexity of merge sort vs quick sort.,U3,CO4,E,long,hard,5,sorting;complexity
+Create an efficient algorithm for finding the shortest path in a weighted graph.,U4,CO4,C,case_study,hard,10,graph;dijkstra
+What is dynamic programming? Give an example.,U4,CO4,U,short,medium,3,dp
+Apply the knapsack problem using dynamic programming.,U4,CO4,Ap,long,hard,10,dp;knapsack
+Analyze the space complexity of different sorting algorithms.,U2,CO3,An,short,hard,5,sorting;space
+Define AVL tree and explain balancing.,U3,CO2,R,short,medium,3,avl;tree
+Write pseudocode for Dijkstra's algorithm.,U4,CO4,Ap,long,hard,8,graph;shortest-path
+Explain the concept of amortized analysis.,U1,CO2,U,short,hard,5,complexity
+Compare B-tree and B+ tree with real-world use cases.,U3,CO3,An,long,hard,8,tree;database
+Evaluate the efficiency of different hashing techniques.,U3,CO3,E,long,medium,5,hashing
+Design a data structure for implementing a priority queue.,U1,CO4,C,long,hard,10,priority-queue
+Describe the applications of graph theory in networking.,U4,CO4,U,short,medium,3,graph;networking

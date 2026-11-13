@@ -1,0 +1,5 @@
+co_code,description,po_mapping
+CO1,Understand and describe fundamental data structures and their properties,PO1;PO2
+CO2,Apply data structures and algorithms to solve computational problems,PO2;PO3
+CO3,Analyze and compare algorithms for time and space complexity,PO3;PO4
+CO4,Design and evaluate efficient algorithms and data structures for real-world applications,PO4;PO5

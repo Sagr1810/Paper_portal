@@ -1,0 +1,35 @@
+import axios from 'axios'
+import { getToken, clearAuth, setTokens } from './auth'
+
+const api = axios.create({ baseURL: '/api' })
+
+api.interceptors.request.use((config) => {
+  const token = getToken()
+  if (token) config.headers.Authorization = `Bearer ${token}`
+  return config
+})
+
+api.interceptors.response.use(
+  (res) => res,
+  async (err) => {
+    const original = err.config
+    if (err.response?.status === 401 && !original._retry) {
+      original._retry = true
+      const refresh = localStorage.getItem('refresh_token')
+      if (refresh) {
+        try {
+          const { data } = await axios.post('/api/auth/refresh', { refresh_token: refresh })
+          setTokens(data.access_token, data.refresh_token)
+          original.headers.Authorization = `Bearer ${data.access_token}`
+          return api(original)
+        } catch {
+          clearAuth()
+          window.location.href = '/login'
+        }
+      }
+    }
+    return Promise.reject(err)
+  }
+)
+
+export default api

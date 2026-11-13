@@ -1,0 +1,9 @@
+exam_type,name,total_marks,duration_minutes,section_name,marks_per_question,questions_required,allow_choice
+mid_semester,Mid-Sem Standard (30 marks),30,90,Section A - Short Answer,2,5,false
+mid_semester,Mid-Sem Standard (30 marks),30,90,Section B - Long Answer,5,2,true
+mid_semester,Mid-Sem Standard (30 marks),30,90,Section C - Extended,10,1,false
+end_semester,End-Sem Standard (70 marks),70,180,Section A - MCQ,2,10,false
+end_semester,End-Sem Standard (70 marks),70,180,Section B - Short Answer,5,4,true
+end_semester,End-Sem Standard (70 marks),70,180,Section C - Long Answer,10,2,true
+remedial,Remedial Exam (50 marks),50,150,Section A - Short Answer,5,5,false
+remedial,Remedial Exam (50 marks),50,150,Section B - Long Answer,10,2,true

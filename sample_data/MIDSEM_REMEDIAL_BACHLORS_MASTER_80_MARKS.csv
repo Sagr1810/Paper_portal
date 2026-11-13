@@ -1,0 +1,36 @@
+Que,Mark,,,,MARKS,CO,BLOOM'S,NOTES (fill CO & BLOOM'S columns only)
+1A,1,,I,,1,,,← fill CO and BLOOM'S here
+1B,1,,II,,1,,,← fill CO and BLOOM'S here
+1C,1,,III,,1,,,← fill CO and BLOOM'S here
+1D,1,,IV,,1,,,← fill CO and BLOOM'S here
+1E,1,,V,,1,,,← fill CO and BLOOM'S here
+1F,1,,VI,,1,,,← fill CO and BLOOM'S here
+1G,1,,VII,,1,,,← fill CO and BLOOM'S here
+1H,1,,VIII,,1,,,← fill CO and BLOOM'S here
+1I,1,,IX,,1,,,← fill CO and BLOOM'S here
+1J,1,,X,,1,,,← fill CO and BLOOM'S here
+,2,,XI,,2,,,← fill CO and BLOOM'S here
+,2,,XII,,2,,,← fill CO and BLOOM'S here
+2A,3,Q.2,(a),,3,,,← mandatory: fill CO and BLOOM'S
+2B,4,,(b),,4,,,← mandatory: fill CO and BLOOM'S
+,,,,OR,,,,(b) OR-alternative: fill to override or leave blank
+2B,4,,(b),,4,,,  ← OR alt (b)
+2C,5,,(c),,5,,,← mandatory: fill CO and BLOOM'S
+,,,,OR,,,,(c) OR-alternative: fill to override or leave blank
+2C,5,,(c),,5,,,  ← OR alt (c)
+,,,,,,,
+3A,3,Q.3,(a),,3,,,← mandatory: fill CO and BLOOM'S
+3B,4,,(b),,4,,,← mandatory: fill CO and BLOOM'S (choice group with 3C)
+3C,5,,(c),,5,,,← mandatory: fill CO and BLOOM'S (choice group with 3B)
+,,,,OR,,,, ↑ Students answer 3B+3C OR the alternatives below
+3B,4,,(b),,4,,,  ← OR alt (b)
+3C,5,,(c),,5,,,  ← OR alt (c)
+,,,,,,,
+4A,3,Q.4,(a),,3,,,← mandatory: fill CO and BLOOM'S
+4B,4,,(b),,4,,,← mandatory: fill CO and BLOOM'S
+4C,5,,(c),,5,,,← mandatory: fill CO and BLOOM'S
+,,,,OR,,,, ↑ Students attempt entire Q4 OR the alternatives below
+4A,3,Q.4,(a),,3,,,  ← OR alt (a)
+4B,4,,(b),,4,,,  ← OR alt (b)
+4C,5,,(c),,5,,,  ← OR alt (c)
+,80,,,,,TOTAL,,

@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+
+# Virtual environment
+backend/.venv/
+.venv/
+venv/
+
+# Database files
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+backend/.env
+
+# Node
+frontend/node_modules/
+node_modules/
+
+# Frontend build output
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+uvicorn_out.txt
+uvicorn_err.txt
+vite_out.txt
+vite_err.txt
+
+# Pytest cache
+.pytest_cache/
+backend/.pytest_cache/
+
+# Uploaded files (runtime data)
+backend/uploads/
+
+# Compiled Python files
+backend/app/__pycache__/
+backend/app/routers/__pycache__/
+backend/alembic/__pycache__/

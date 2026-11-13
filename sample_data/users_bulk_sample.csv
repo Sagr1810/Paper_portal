@@ -1,0 +1,11 @@
+name,email,password,role,department_name
+Dr. Anjali Mehta,anjali.mehta@college.edu,Anjali@1234,faculty,Computer Science
+Prof. Ramesh Kumar,ramesh.kumar@college.edu,Ramesh@1234,faculty,Computer Science
+Dr. Sunita Patel,sunita.patel@college.edu,Sunita@1234,hod,Information Technology
+Prof. Vikram Singh,vikram.singh@college.edu,Vikram@1234,faculty,Information Technology
+Dr. Meena Shah,meena.shah@college.edu,Meena@1234,faculty,MCA
+Prof. Ajay Desai,ajay.desai@college.edu,Ajay@1234,principal,
+Mr. Ravi Nair,ravi.nair@college.edu,Ravi@1234,exam_cell,Computer Science
+Dr. Pooja Joshi,pooja.joshi@college.edu,Pooja@1234,faculty,Computer Science
+Prof. Suresh Gupta,suresh.gupta@college.edu,Suresh@1234,hod,Computer Science
+Mrs. Kavita Rao,kavita.rao@college.edu,Kavita@1234,exam_cell,Information Technology
