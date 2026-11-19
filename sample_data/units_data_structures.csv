@@ -1,0 +1,5 @@
+unit_code,unit_name,weight_percent,description
+U1,Introduction to Data Structures,20,Arrays, linked lists, stacks, queues and basic operations
+U2,Sorting and Searching,25,Bubble sort, merge sort, quick sort, binary search, complexity analysis
+U3,Trees and Graphs,30,Binary trees, AVL trees, heaps, graph representations and traversals
+U4,Advanced Topics,25,Dynamic programming, hashing, shortest paths, greedy algorithms

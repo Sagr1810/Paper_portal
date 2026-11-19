@@ -1,0 +1,7 @@
+level_code,level_name,category,order_num
+R,Remember,remember,1
+U,Understand,understand,2
+Ap,Apply,apply,3
+An,Analyze,analyze,4
+E,Evaluate,evaluate,5
+C,Create,create,6
